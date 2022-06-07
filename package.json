@@ -1,0 +1,29 @@
+{
+  "name": "marisa-bot",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PineappleJuniors/marisa.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "PineappleJuniors",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/PineappleJuniors/marisa/issues"
+  },
+  "homepage": "https://github.com/PineappleJuniors/marisa#readme",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
